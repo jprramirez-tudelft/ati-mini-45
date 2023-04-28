@@ -15,11 +15,11 @@
 
 #### USB-RS485
 
-[Bought from Farnel](https://nl.farnell.com/en-NL/ftdi/usb-rs485-we-1800-bt/cable-usb-rs485-serial-converter/dp/1740357)
+[Bought from Farnell](https://nl.farnell.com/en-NL/ftdi/usb-rs485-we-1800-bt/cable-usb-rs485-serial-converter/dp/1740357)
 
-[Datasheet] (https://www.farnell.com/datasheets/652302.pdf)
+[Datasheet](https://www.farnell.com/datasheets/652302.pdf)
 
-[Install Driver from FTDI] (https://ftdichip.com/drivers/vcp-drivers/)
+[Install Driver from FTDI](https://ftdichip.com/drivers/vcp-drivers/)
 
 #### ATI Demo Program 
 1. Download and install [Digital F/T Demo Software] https://www.ati-ia.com/library/download.aspx
