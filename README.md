@@ -3,6 +3,7 @@
 ## Background
 
 [Manufacturer Landing Page](https://www.ati-ia.com/products/ft/ft_models.aspx?id=Mini45)
+
 [Calibration Files](https://www.ati-ia.com/library/software/ftdigitaldownload/getcalfiles.aspx)
 
 ### Electronics
@@ -15,7 +16,9 @@
 #### USB-RS485
 
 [Bought from Farnel](https://nl.farnell.com/en-NL/ftdi/usb-rs485-we-1800-bt/cable-usb-rs485-serial-converter/dp/1740357)
+
 [Datasheet] (https://www.farnell.com/datasheets/652302.pdf)
+
 [Install Driver from FTDI] (https://ftdichip.com/drivers/vcp-drivers/)
 
 #### ATI Demo Program 
