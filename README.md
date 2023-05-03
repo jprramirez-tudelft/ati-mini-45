@@ -7,7 +7,7 @@
 [Calibration Files](https://www.ati-ia.com/library/software/ftdigitaldownload/getcalfiles.aspx)
 
 ### Electronics
-
+![Force_Torque Sensor - RS 485 to USB](https://user-images.githubusercontent.com/116556627/235968660-c45fa40f-422b-45fa-ad3c-efed81eaa39f.jpg)
 
 ## Windows Setup
 
