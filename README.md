@@ -33,3 +33,7 @@
 
 ## Linux Setup
 No need for driver installation. 
+
+## Manual Interfacing
+Python code to interface with the sensor without using the manufacturer-provided software.  
+Run main.py in folder PC-Sensor-Interface.
